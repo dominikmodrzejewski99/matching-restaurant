@@ -1,4 +1,4 @@
-# matchingRestaurant
+# FoodMood
 
 Aplikacja rozwiązująca odwieczny problem: **"chcemy coś zjeść, ale nie wiemy co"**.
 
