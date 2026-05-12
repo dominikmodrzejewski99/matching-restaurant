@@ -1,5 +1,5 @@
 {
-  "name": "glodny-app",
+  "name": "foodmood",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:glodnyApp": "node dist/glodny-app/server/server.mjs",
+    "serve:ssr:foodmood": "node dist/foodmood/server/server.mjs",
     "generate:api": "openapi-generator-cli generate  --skip-validate-spec -i http://127.0.0.1:8001/docs?api-docs.json -g  typescript-axios -o src/app/core/api"
   },
   "private": true,

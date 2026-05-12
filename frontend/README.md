@@ -1,10 +1,10 @@
-# Głodny? <img src="./src/assets/logo-small.svg" alt="Głodny? Logo" width="30" height="30" style="vertical-align: middle;">
+# FoodMood <img src="./src/assets/logo-small.svg" alt="FoodMood Logo" width="30" height="30" style="vertical-align: middle;">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Logo
 
-The "Głodny?" (Hungry?) logo represents the app's focus on food and restaurant recommendations:
+The FoodMood logo represents the app's focus on food and restaurant recommendations:
 
 - The plate and utensils symbolize dining and restaurants
 - The question mark represents the app's purpose of helping users decide where to eat
